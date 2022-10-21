@@ -1,0 +1,341 @@
+{
+    "bio" : {
+        "name": "Rishi Suresh",
+        "pageTitle": "Rishi Suresh | Software Engineer 2",
+        "rotateText": {
+            "primaryText": "I build things",
+            "secondaryText": ["for the Web.", "for the Cloud.", "for the Future."]
+        },
+        "animateText": true,
+        "alternateText": "I build things for the world.",
+        "typeTime": 150,
+        "deleteTime": 100,
+        "about": "A Software engineer based out of Bangalore, India. \nI enjoy creating things that live on the internet, whether that be websites, applications, \nor anything in between. My goal is to always build products that provide performant experiences. \nCurrently working as a Software Engineer 2 at DELL Technologies, where I work on cloud and Kubernetes.",
+        "imageUrl": "./assets/img/compressed-removebg.png",
+        "email": "rishi9632@gmail.com",
+        "signature": "Developed By Rishi Suresh.",
+        "projectLogo": "RS"
+    },
+    "connections": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/rishi-suresh/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/rishisuresh7"
+        },
+        {
+            "type": "phone",
+            "link": "tel:+918792615476"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:rishi9632@gmail.com"
+        },
+        {
+            "type": "instagram",
+            "link": "https://www.instagram.com/rishisuresh7/"
+        }
+    ],
+    "experienceHeading": "My Journey so far....",
+    "experience" : [
+        {
+            "companyName": "DELL Technologies",
+            "jobDescription": {
+                "role": "Software Engineer 2",
+                "period": "Aug 2021 - Present",
+                "responsibilities": [
+                    {
+                        "title": "Continous Learning",
+                        "responsibility": "Actively concentrating on growing personal skills as a Software Engineer."
+                    },
+                    {
+                        "title": "Cloud Development",
+                        "responsibility": "Gained great insights to working of kubernetes. Tied multiple loosely-coupled microservices to work as a system in whole."
+                    },
+                    {
+                        "title": "Cloud Scaling",
+                        "responsibility": "Managed to scale applications in kubernetes with operator framework. Ablity to integrate and migrate standalone services to a containerised platform."
+                    }
+                ]
+            }
+        },
+        {
+            "companyName": "Cast Software",
+            "jobDescription": {
+                "role": "Software Engineer",
+                "period": "Apr 2021 - Aug 2021",
+                "responsibilities": [
+                    {
+                        "title": "Devops Development",
+                        "responsibility": "Created an Automation tool to perform ETL operations on a regular basis. Continuous Integration and deployment using Jenkins with Git commit hooks. Consult with engineering team members to determine system loads and develop and improvise improvement plans."
+                    },
+                    {
+                        "title": "System Design",
+                        "responsibility": "Contributed in the development of independent interacting micro-services framework using a proxy service. Consulted with engineering team members to determine system loads and develop improvement plans. Maintained code coverages of more than 90% throughout the development cycle."
+                    },
+                    {
+                        "title": "FrontEnd Development",
+                        "responsibility": "Developed a few websites to incorporate new frameworks and technologies into the tech stack. In the constant process of learing, adapted to software evolutions and improved the means of gaining knowledge. Open source contributions are in order."
+                    }
+                ]
+            }
+        },
+        {
+        "companyName": "Cast Software",
+        "jobDescription": {
+            "role": "Junior Software Engineer",
+            "period": "Feb 2019 - Apr 2021",
+            "responsibilities": [
+                {
+                    "title": "BackEnd Development",
+                    "responsibility": "Develop scalable and independent microservices based on a multi tenant design. Work with a variety of different languages, platforms and frameworks, such as Golang, JavaScript, Docker and Neo4j. Adjusted software parameters to boost performance and incorporate new features for meeting increasing customer needs."
+                },
+                {
+                    "title": "REST API Development",
+                    "responsibility": "Professional expertise in GO to develop REST API based micro-services. Gained knowledge on graph algorithms and cypher query language in Neo4j to process millions of records on a day-to-day basis. Improved data retrieval times by query tuning to perform tasks 4x faster."
+                },
+                {
+                    "title": "Cloud Development",
+                    "responsibility": "Ability to manage multiple platform independent services using environment isolation and containerisation with Docker and Docker-compose. Regressive strategies to improve personal and technical skills with great precision by learning python and kubernetes."
+                }
+            ]
+        }
+    },
+    {
+        "companyName": "Keitai Technologies",
+        "jobDescription": {
+            "role": "Web Development Intern",
+            "period": "Jan 2019 - Feb 2019",
+            "responsibilities": [
+                {
+                    "title": "FrontEnd Development",
+                    "responsibility": "Work on different HTML pages designed for web, cross built for a web application."
+                },
+                {
+                    "title": "FrontEnd Development",
+                    "responsibility": "Design REST API calls to a microservice hosted on AWS to provide authentication on the web-app."
+                },
+                {
+                    "title": "FrontEnd Development",
+                    "responsibility": "Gain a better knowledge on RESTful API's and error schemes, improve knowledge in JS and some frameworks."
+                }
+            ]
+        }
+    },
+    {
+        "companyName": "Azure Skynet",
+        "jobDescription": {
+            "role": "Summer Trainee",
+            "period": "Aug 2017 - Aug 2017",
+            "responsibilities": [
+                {
+                    "title": "Networking and Security",
+                    "responsibility": "Build proficiency in different networking tools such as nmap, zenmap, wireshark etc.."
+                },
+                {
+                    "title": "Networking and Security",
+                    "responsibility": "Study the aspects of social engineering to understand in a better way, loopholes in security."
+                },
+                {
+                    "title": "Computer Networs",
+                    "responsibility": "Re-iterate on networking models IPv4/IPv6 to understand networking protocols, NAT and other network transmission scenarios"
+                }
+            ]
+        }
+    }],
+    "projectsInfo": {
+        "projects": [{
+            "name": "Git Overview",
+            "subTitle": "2021 - March",
+            "image": "./assets/img/overview.png",
+            "description": "Built a fun project to collect and display the stats of users in github, in the form of charts using Chart.js and React.\nUses Chart.js as a re-usable react component with configurable chart type, styles and animations throughout.",
+            "languages": ["React", "Redux", "Redux-Saga", "Chart.js", "Github API"],
+            "repoLink": "https://github.com/rishisuresh7/overview",
+            "projectLink": "https://rishisuresh7.github.io/overview"
+        },{
+            "name": "Reuse Store - Back End",
+            "subTitle": "2021 - March",
+            "image": "./assets/img/reuse_store_backend.png",
+            "description": "A Golang based  REST API mux server used as the backend service for Resue Store - Front End project.\nImplements JWT tokens for login and authentication, API security is provided using secret key mechanism. Uses MONGO\nas backend database to save store details",
+            "languages": ["GO", "JWT", "MongoDB", "Docker"],
+            "repoLink": "https://github.com/rishisuresh7/shopping"
+        },{
+            "name": "Reuse Store - Front End",
+            "subTitle": "2021 - March",
+            "image": "./assets/img/reuse_store.png",
+            "description": "A simple website(basic functionalities) based on React which uses Redux for state management\nand redux sagas to make API calls. Component based architecture with each component\nbeing used as a state store as and when required. Also includes hooks and uses stripe checkouts for payments.",
+            "languages": ["React.js", "Redux", "Firebase", "Stripe"],
+            "repoLink": "https://github.com/rishisuresh7/Shopping-react",
+            "projectLink": "https://rishisuresh7.github.io/Shopping-react"
+        },{
+            "name": "grpc-mongo-app",
+            "subTitle": "2021 - March",
+            "image": "./assets/img/grpc-docker.png",
+            "description": "A basic docker-compose setup with gRPC, http server and mongodb. The complete integrated setup of the gRPC project using docker. Includes different containers for each microservice. Documentation is provided to use the project.",
+            "languages": ["Docker", "Docker-Compose"],
+            "repoLink" : "https://github.com/rishisuresh7/grpc-mongo-app"
+        },{
+            "name": "grpc-server",
+            "subTitle": "2021 - March",
+            "image": "./assets/img/grpc-grpc.png",
+            "description": "A basic RPC server written in GO. It connects with a mongoDB instance to store data using the GO-MongoDB driver. Data exchange with the client is done through RPC.(Here another GO server).",
+            "languages": ["GO", "Docker"],
+            "repoLink" : "https://github.com/rishisuresh7/grpc-server"
+        },{
+            "name": "http-server",
+            "subTitle": "2021 - March",
+            "image": "./assets/img/grpc-http.png",
+            "description": "A basic GO http server to connect with a grpc server also written in GO. Includes a basic project setup to implement RPC using GO modules. Data exchange with client is made through REST standards.",
+            "languages": ["GO", "Docker"],
+            "repoLink" : "https://github.com/rishisuresh7/http-server"
+        },{
+            "name": "portfolio",
+            "subTitle": "2020 - Jul",
+            "image": "./assets/img/portfolio.png",
+            "description": "A configurable personal portfolio project using react and redux. Edit the JSON file provided with the project to make the website your own. Each detail of the page can be configured using the JSON file directly. Refer the config.json in the repository for reference.",
+            "languages": ["React", "Redux"],
+            "repoLink" : "https://github.com/rishisuresh7/portfolio",
+            "projectLink" : "https://github.com/rishisuresh7/portfolio"
+        },{
+            "name": "go-watcher(In progress)",
+            "subTitle": "2021 - March",
+            "image": "./assets/img/go-watcher.png",
+            "description": "A project watcher for GO projects. A npm like project-watcher for GO applications. Checks for changes during a specific interval and re-runs the application if the application has any new changes.",
+            "languages": ["GO"],
+            "repoLink" : "https://github.com/rishisuresh7/go-watcher"
+        },{
+            "name": "JobQueue(In progress)",
+            "subTitle": "2021 - Feb",
+            "image": "./assets/img/go-avatar.png",
+            "description": "An application Server written in GO to create and track and spawn jobs using job queues. All data exchange formats follow standard REST API rules.",
+            "languages": ["GO", "Docker"],
+            "repoLink" : "https://github.com/rishisuresh7/JobQueue"
+        },{
+            "name": "JobQueue-Front(In progres)",
+            "subTitle": "2021 - Feb",
+            "image": "./assets/img/react-avatar.png",
+            "description": "A basic REACT web app to manage creation and display of a job queue. Integrated with a backend job queue server written in GO to create, delete and spawn jobs using job queues.",
+            "languages": ["React"],
+            "repoLink" : "https://github.com/rishisuresh7/JobQueue-Front"
+        }],
+        "heading": "Some Noteworthy Projects"
+    },
+    "styles" : {
+        "settingsIcon": false,
+        "defaultBackground": "linear-gradient(to right, #000000, #434343)",
+        "otherStyles" : [
+            {
+                "name": "MoonLit Asteroid",
+                "style": "linear-gradient(to right, #0f2027, #203a43, #2c5364)"
+            },
+            {
+                "name": "Royal",
+                "style": "linear-gradient(to right, #141e30, #243b55)"
+            },
+            {
+                "name": "Sunset",
+                "style": "linear-gradient(to right, #0b486b, #f56217)"
+            },
+            {
+                "name": "Deep Space",
+                "style": "linear-gradient(to right, #000000, #434343)"
+            },
+            {
+                "name": "Dark Skies",
+                "style": "linear-gradient(to right, #283e51, #4b79a1)"
+            },
+            {
+                "name": "Netflix",
+                "style": "linear-gradient(to right, #8e0e00, #1f1c18)"
+            },
+            {
+                "name": "Lizard",
+                "style": "linear-gradient(to right, #304352, #d7d2cc)"
+            },
+            {
+                "name": "Curiousity Blue",
+                "style": "linear-gradient(to right, #525252, #3d72b4)"
+            },
+            {
+                "name": "Instagram",
+                "style": "linear-gradient(to right, #833ab4, #fd1d1d, #fcb045)"
+            },
+            {
+                "name": "Talking To Myself",
+                "style": "linear-gradient(to right, #948e99, #2e1437)"
+            },
+            {
+                "name": "Hersheys",
+                "style": "linear-gradient(to right, #1e130c, #9a8478)"
+            },
+            {
+                "name": "Between The Clouds",
+                "style": "linear-gradient(to right, #73c8a9, #373b44)"
+            }
+        ]
+    },
+    "technologies" : [
+        {
+            "name": "Golang",
+            "icon": "./assets/img/go-avatar.png"
+        },
+        {
+            "name": "Kubernetes",
+            "icon": "./assets/img/k8s-avatar.png"
+        },
+        {
+            "name": "Neo4j",
+            "icon": "./assets/img/neo4j-avatar.png"
+        },
+        {
+            "name": "JavaScript",
+            "icon": "./assets/img/js-avatar.png"
+        },
+        {
+            "name": "React.js",
+            "icon": "./assets/img/react-avatar.png"
+        },
+        {
+            "name": "Redux",
+            "icon": "./assets/img/redux-avatar.png"
+        },
+        {
+            "name": "Git",
+            "icon": "./assets/img/git-avatar.png"
+        },
+        {
+            "name": "Docker",
+            "icon": "./assets/img/docker-avatar.png"
+        },
+        {
+            "name": "Java",
+            "icon": "./assets/img/java-avatar.png"
+        },
+        {
+            "name": "Python",
+            "icon": "./assets/img/python-avatar.png"
+        },
+        {
+            "name": "Linux",
+            "icon": "./assets/img/linux-avatar.png"
+        },
+        {
+            "name": "HTML",
+            "icon": "./assets/img/html-avatar.png"
+        },
+        {
+            "name": "CSS/SCSS",
+            "icon": "./assets/img/css-avatar.png"
+        },
+        {
+            "name": "Docker Compose",
+            "icon": "./assets/img/docker-compose-avatar.png"
+        },
+        {
+            "name": "Jenkins",
+            "icon": "./assets/img/jenkins-avatar.png"
+        }
+    ]
+}
