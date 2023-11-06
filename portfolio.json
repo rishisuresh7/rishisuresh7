@@ -1,7 +1,7 @@
 {
     "bio" : {
         "name": "Rishi Suresh",
-        "pageTitle": "Rishi Suresh | Software Engineer 2",
+        "pageTitle": "Rishi Suresh | Senior Software Engineer",
         "rotateText": {
             "primaryText": "I build things",
             "secondaryText": ["for the Web.", "for the Cloud.", "for the Future."]
@@ -10,7 +10,7 @@
         "alternateText": "I build things for the world.",
         "typeTime": 150,
         "deleteTime": 100,
-        "about": "A Software Engineer based out of Bangalore, India. \nI enjoy creating things that live on the internet, whether that be websites, applications, \nor anything in between. My goal is to always build products that provide performant experiences. \nCurrently working as a Software Engineer 2 at DELL Technologies, where I work on Kubernetes.",
+        "about": "A Software Engineer based out of Bangalore, India. \nI enjoy creating things that live on the internet, whether that be websites, applications, \nor anything in between. My goal is to always build products that provide performant experiences. \nCurrently working as a Software Senior Engineer at DELL Technologies, where I work on Kubernetes.",
         "imageUrl": "./assets/img/compressed-removebg.png",
         "email": "rishi9632@gmail.com",
         "signature": "Developed By Rishi Suresh.",
@@ -43,13 +43,30 @@
         {
             "companyName": "DELL Technologies",
             "jobDescription": {
-                "role": "Software Engineer 2",
-                "period": "Aug 2021 - Present",
+                "role": "Software Senior Engineer",
+                "period": "Apr 2023 - Present",
                 "responsibilities": [
                     {
                         "title": "Continous Learning",
-                        "responsibility": "Actively concentrating on growing personal skills as a Software Engineer."
+                        "responsibility": "Actively concentrating on enhancing personal skills to grow as a Software Engineer."
                     },
+                    {
+                        "title": "Technical Competence",
+                        "responsibility": "Contributed to the design of a CLI tool, ensuring its usability, testability, and maintainability, and expedited its internal software tool adoption by providing early access to code."
+                    },
+                    {
+                        "title": "Leadership",
+                        "responsibility": "Led and developed a CLI tool using Go for on-premises appliance setup, providing technical leadership and guidance, and collaborating cross-functionally to streamline delivery processes."
+                    }
+                ]
+            }
+        },
+        {
+            "companyName": "DELL Technologies",
+            "jobDescription": {
+                "role": "Software Engineer 2",
+                "period": "Aug 2021 - Mar 2023",
+                "responsibilities": [
                     {
                         "title": "Cloud Development",
                         "responsibility": "Gained great insights to working of kubernetes. Tied multiple loosely-coupled microservices to work as a system in whole."
